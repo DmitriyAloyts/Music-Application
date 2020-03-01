@@ -46,8 +46,7 @@ Examples of existing application
 Shazam: https://www.shazam.com/track/498442693/dance-monkey-stripped-back
 Midomi: https://www.midomi.com/
 
-Our application is not to be exactly like the websites above but some of the layouts can be somehow alike, such as:
-
+Link to live app is https://dmitriyaloyts.github.io/Music-Application/
 
 
 
